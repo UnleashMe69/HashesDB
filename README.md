@@ -17,3 +17,16 @@ The algorithms currently supported are:
   - any hash function 40 char long (SHA1, MySQL4.1/5 ...)
 
 Current release is windows only.
+
+For a complete usage example, you can take a deeper look [here](https://github.com/UnleashMe69/HashesDB/blob/master/example/ReadMe.md)
+
+## Full Disclaimer
+**I do not repond to cracking requests! You can crack your own sh!t!**
+
+**HashesDB does not and cannot crack hashes from thin air!**
+
+**HashesDB is just an embedded database to store your _previously_ cracked hashes.**
+
+**Using HashesDB means you have the permission of the owner to crack those hashes and to store them in your database.**
+
+**In no way, I can be held responsible for the misuse of HashesDB and YOU as the _user_ takes full responsibility for your actions using HashesDB!**
