@@ -4,7 +4,7 @@ Store your cracked hashes or your pot file in an embedded database.
 For now, only leveldb is supported.
 
 Requirements:
-leveldb library need to be installed and linked to the project.
+To build the project, leveldb library need to be installed and linked to the project.
 Boost library need to be linked to the project.
 
 Usage:
@@ -16,7 +16,7 @@ The algorithms currently supported are:
   - any hash function 32 char long (MD5, NTLM ...)
   - any hash function 40 char long (SHA1, MySQL4.1/5 ...)
 
-Current release is windows only.
+In case you do not want to build the project. a release (windows only) is available to download.
 
 For a complete usage example, you can take a deeper look [here](https://github.com/UnleashMe69/HashesDB/blob/master/example/ReadMe.md)
 
