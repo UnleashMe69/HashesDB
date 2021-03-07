@@ -21,7 +21,7 @@ In case you do not want to build the project. a release (windows only) is availa
 For a complete usage example, you can take a deeper look [here](https://github.com/UnleashMe69/HashesDB/blob/master/example/ReadMe.md)
 
 ## Full Disclaimer
-**I do not repond to cracking requests! You can crack your own sh!t!**
+**I do not respond to cracking requests! You can crack your own sh!t!**
 
 **HashesDB does not and cannot crack hashes from thin air!**
 
